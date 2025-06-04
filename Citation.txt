@@ -1,0 +1,5 @@
+
+Cite the toolbox:
+
+Topsakal, M., Dogan, E., Yasak, S.S. et al. Basin morphometry? It is no longer an issue with HydroMachine toolbox. Environ Earth Sci 84, 342 (2025). 
+https://doi.org/10.1007/s12665-025-12352-8

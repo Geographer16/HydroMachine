@@ -1,3 +1,3 @@
 User guide and much more coming soon.
 
-The most common errors occurs when working with data from outside GDB.  When using the HydroMachine Toolbox, make sure that both your input and output data are stored within GDB.
+The most common errors occur when working with data stored outside a File Geodatabase (GDB). Please ensure that your working environment — including both input and output data — is stored within a File Geodatabase (.gdb), which is a special type of folder used by ArcGIS to store spatial data efficiently and without format conflicts.

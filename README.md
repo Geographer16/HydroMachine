@@ -1,3 +1,1 @@
-User guide and much more coming soon.
-
 The most common errors occur when working with data stored outside a File Geodatabase (GDB). Please ensure that your working environment — including both input and output data — is stored within a File Geodatabase (.gdb), which is a special type of folder used by ArcGIS to store spatial data efficiently and without format conflicts.
